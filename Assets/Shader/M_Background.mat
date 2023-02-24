@@ -32,7 +32,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+<<<<<<< HEAD
     - LavaPower: 7.9241705
+=======
+    - LavaPower: 5.2864866
+>>>>>>> 631a42f438c201cd5143f4904e6bc4ba5fdec74c
     - LavaSpeed: 0.696
     - Vector1_440b81e4223845e1afdd4dca89869f49: 2
     - Vector1_6119f87174eb483581cf0db9ba7f2e7b: 0.55
@@ -40,6 +44,10 @@ Material:
     - Vector1_bd72aee378b44a35aba140c4445adce9: 0.55
     - Vector1_e17f408db1c74edd9e671dd497dc5099: 30
     m_Colors:
+<<<<<<< HEAD
     - BaseColor: {r: 1.9932952, g: 0.10922165, b: 1.1741327, a: 1}
+=======
+    - BaseColor: {r: 6.023055, g: 6.8404694, b: 1.41972, a: 1}
+>>>>>>> 631a42f438c201cd5143f4904e6bc4ba5fdec74c
     - Color_d9ac0d4ee4e9425ba7b08fa509024eb4: {r: 0.75, g: 0.0125, b: 0, a: 0}
   m_BuildTextureStacks: []
